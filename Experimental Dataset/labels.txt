@@ -1,0 +1,17 @@
+approval
+neutral
+disapproval
+love
+joy
+caring
+excitement
+annoyance
+desire
+surprise
+disappointment
+confusion
+anger
+curiosity
+disgust
+relaxed
+certainty
